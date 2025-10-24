@@ -23,18 +23,17 @@ Designed to showcase a fresh, creative, and Africa-centered approach to digital 
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/<your-username>/afrijournal-online.git
+git clone https://github.com/tebogoktshupeng-sudo/afrijournal-online.git
 
-2. Navigate into the Project Folder
+### 2. Navigate into the Project Folder
 
 cd afrijournal-online
 
-3. Open in a Code Editor
+### 3. Open in a Code Editor
 
 Open the project in Visual Studio Code or your preferred code editor.
 
-4. Run with Live Server
+### 4. Run with Live Server
 
 If you’re using VS Code, install the Live Server extension (by Ritwick Dey) and start it:
 
@@ -51,7 +50,8 @@ Alternatively, you can manually open the index.html file in your browser.
 afrijournal-online/
 │
 ├── index.html       
-├── styles.css          
+├── styles.css
+├── script.js
 └── assets            
 
 🚀 Usage
@@ -60,6 +60,8 @@ Edit index.html to update site content or add new sections.
 
 Modify styles.css to customize colors, fonts, or layout.
 
+Open website to experience in a browser interactive features powered by script.js.
+
 Place images or videos in the assets/ folder and link them within the HTML.
 
 🧠 Technologies Used
@@ -67,6 +69,8 @@ Place images or videos in the assets/ folder and link them within the HTML.
 HTML5 — for structure and content
 
 CSS3 — for styling and responsive design
+
+JavaScript — for interactivity and dynamic features
 
 🙌 Credits
 
