@@ -49,9 +49,12 @@ Alternatively, you can manually open the index.html file in your browser.
 
 afrijournal-online 
 
-index.html       
+index.html
+
 styles.css
+
 script.js
+
 assets            
 
 🚀 Usage
