@@ -47,12 +47,12 @@ Alternatively, you can manually open the index.html file in your browser.
 
 🧩 Project Structure
 
-afrijournal-online/
-│
-├── index.html       
-├── styles.css
-├── script.js
-└── assets            
+afrijournal-online 
+
+index.html       
+styles.css
+script.js
+assets            
 
 🚀 Usage
 
